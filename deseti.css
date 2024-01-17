@@ -185,6 +185,7 @@ ul li {
     border-radius: 5px;
     margin: 10px;
     box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    border: 2px solid;
     color: white;
     text-transform: uppercase;
     line-height: 3.5em;
